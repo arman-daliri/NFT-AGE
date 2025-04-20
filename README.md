@@ -1,30 +1,57 @@
-# Nima Art Engine
+# NFT Art Generation Engine (NFT-AGE)
 
-A powerful NFT art generation engine that allows you to create unique digital art pieces by combining different layers of images.
+A simple tool to create unique NFT artwork by combining different image layers.
 
-## Features
+## 1. Download and Installation
 
-- Layer-based art generation
-- Customizable output settings
-- Preview functionality
-- Automatic layer organization
-- Desktop output saving
-- Cross-platform support (Windows & Mac)
+First, download the app from:  
+https://github.com/NimaZaeim/Nima-s-NFT-Art-Engine/releases/tag/v1.10
 
-## Installation
+### For Windows:
+1. Download `Nima Art Engine-Setup.exe`
+2. Double-click the downloaded file to run the installer
+3. Follow the installation steps (just keep clicking "Next")
+4. The app will install with a desktop shortcut
 
-### Windows
-1. Download the `Nima Art Engine-Setup.exe` installer
-2. Run the installer and follow the on-screen instructions
-3. Choose your preferred installation directory
-4. The application will be installed with all necessary files and a desktop shortcut
+## 2. Configuration Settings
 
-## Getting Started
+When you first open the app, you'll see the Configuration tab with these important settings:
 
-### Setting Up Layers
+- **Supply**: Enter how many NFT images you want to create (example: 5)
+- **Name**: Your collection name (example: "Nima NFT Arts")
+- **Symbol**: A short code for your collection (example: "NZ")
+- **Description**: What your collection is about
+- **Width** and **Height**: Set your image size (example: 1080x1080 pixels)
 
-1. Create a folder structure for your layers:
-   ```
+## 3. Setting the Output Path
+
+1. Click the "Output Path" button
+2. Choose where you want your finished NFTs to be saved
+3. Select any folder on your computer
+
+## 4. Loading Your Layers
+Tip: The app comes with sample layers to help you get started. Just click "Get Folders" to load them!
+
+1. Go to the "Layers Order" tab
+2. Click "Get Folders" - the app will automatically find your layer folders
+3. Your layers will appear in a list
+4. Use the up/down arrows to change the layer order (top layers cover bottom ones)
+5. You can turn layers on/off using the checkboxes
+
+## 5. Creating Your NFTs
+
+1. Go to the "Create" tab
+3. Click "Generate" to start creating
+4. Wait while the app combines your layers in unique ways
+5. When finished, your NFTs will be in your chosen output folder
+
+## Troubleshooting
+
+- All images in a layer folder should be the same size
+- Use PNG format for best results
+- The preview might look messy, but your final NFTs will be perfect
+- Try different layer orders for new looks
+- If you want to add your own layer folders, make sure to follow the structure below:
    layers/
    ├── Background/
    ├── Body/
@@ -32,39 +59,3 @@ A powerful NFT art generation engine that allows you to create unique digital ar
    ├── Mouth/
    └── Accessories/
    ```
-
-2. Place your PNG images in their respective folders
-3. Each layer folder should contain images of the same dimensions
-
-### Using the Application
-
-1. **Layer Selection**
-   - Click the "Get Folders" button to automatically detect your layer folders
-   - The application will scan for layer folders in the default location
-   - Each detected layer will appear in the list
-
-2. **Preview**
-   - Use the "Preview" button to see how your layers will look when combined
-   - Note: The preview may show overlapping attributes, which will be fixed during generation
-
-3. **Generation Settings**
-   - **Number of Images**: Enter how many unique combinations you want to generate
-   - **Output Format**: Choose between PNG or JPG format
-   - **Output Size**: Set the dimensions for your generated images
-
-4. **Generating Art**
-   - Click the "Generate" button to start creating your art pieces
-   - Generated images will be saved to your desktop
-   - Each image will be named with a unique identifier
-
-5. **Layer Management**
-   - Use the up/down arrows to reorder layers
-   - The order determines how layers are stacked (top to bottom)
-   - You can enable/disable specific layers using the checkboxes
-
-## Troubleshooting
-
-- If layers aren't detected, ensure your folder structure matches the required format
-- Make sure all images are in PNG format
-- Check that images in the same layer have consistent dimensions
-- If preview shows overlapping, this is normal and will be fixed during generation
