@@ -52,6 +52,7 @@ Tip: The app comes with sample layers to help you get started. Just click "Get F
 - The preview might look messy, but your final NFTs will be perfect
 - Try different layer orders for new looks
 - If you want to add your own layer folders, make sure to follow the structure below:
+   ```
    layers/
    ├── Background/
    ├── Body/
