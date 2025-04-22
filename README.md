@@ -20,7 +20,6 @@ When you first open the app, you'll see the Configuration tab with these importa
 - **Supply**: Enter how many NFT images you want to create (example: 5)
 - **Name**: Your collection name (example: "Nima NFT Arts")
 - **Symbol**: A short code for your collection (example: "NZ")
-- **Description**: What your collection is about
 - **Width** and **Height**: Set your image size (example: 1080x1080 pixels)
 
 ## 3. Setting the Output Path
