@@ -60,3 +60,13 @@ Tip: The app comes with sample layers to help you get started. Just click "Get F
    ├── Mouth/
    └── Accessories/
    ```
+
+# Under Review:
+### [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) from Elsevier.
+
+## Author
+- Arman Daliri [Contact](mailto:daliriwork2@gmail.com)
+- Nima Zaeimzadeh [Contact](mailto:N.zaeimzadeh@iau.ir)
+- Dr. Reza Sadeghi [Contact](mailto:Reza.Sadeghi@marist.edu)
+- Dr. Mahdieh Zabihimayvan [Contact](mailto:Zabihimayvan@ccsu.edu)
+- Nora Mahdavi [Contact](mailto:noramahdvi@gmail.com)
