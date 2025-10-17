@@ -60,8 +60,8 @@ Tip: The app comes with sample layers to help you get started. Just click "Get F
    └── Accessories/
    ```
 
-# Under Review:
-### [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) from Elsevier.
+# Published at:
+### [Neurocomputing](https://www.sciencedirect.com/science/article/abs/pii/S0925231225024932) from Elsevier.
 
 ## Author
 - Arman Daliri [Contact](mailto:daliriwork2@gmail.com)
